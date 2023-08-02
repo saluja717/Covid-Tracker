@@ -1,0 +1,37 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;padding: 0;
+}
+.coloring
+{
+  width: 100%;
+ background-color:white;
+}
+.maker_of_covid
+{
+  margin-left: 10px;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  color:black;
+}
+.icon,.icon:active
+{
+  border:none;
+}
+li{
+  font-size: 20px;
+}
+#About,#Contact_me,#Symptoms,#Home
+{
+   position:relative;
+}
+.navbar
+{
+  padding-top:0px;
+}
+#Home
+{
+  width: 100%;
+  overflow-x: hidden;
+}

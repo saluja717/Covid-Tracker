@@ -1,0 +1,16 @@
+.check
+{
+    position:fixed;
+    bottom:12px;
+    left:92%;
+    z-index:1000;
+    width:24px;
+    border-radius:50%;
+    background-color:blue;
+    color:white;
+}
+.make
+{
+    position:relative;
+    width:20px;
+}
